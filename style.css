@@ -1,0 +1,109 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 ;
+    
+}
+.color{
+    color: #FBA24F;
+}
+h1{
+    color: #575757;
+    font-size: 40px;
+    
+}
+h2{
+    font-size: 25px;
+}
+.extra{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+padding-left: 8%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-batton{
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: wheat;
+    background-image: linear-gradient(#FBA24F,#FF1E1E);
+}
+.about{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-right: 10%;
+    
+}
+.footer{
+    font-family: 'Montserrat';
+    text-align: center;
+    align-items: center;
+    width: 700px;
+    margin: auto;
+}
+.card{
+    width: 340px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 10px gray;
+    border-radius: 30px;
+    padding: 15px;
+    
+    
+}
+.img-style{
+    width: 100%;
+}
+.card-body{
+    padding: 10px;
+    
+    
+}
+.card-body.card-title{
+    font-size: 20px;
+    text-align: center;
+}
+.card-body .card-desc{
+    text-align: left;
+}
+.card-top{
+    box-sizing: border-box;
+    display: flex;
+    gap: 54px;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+}
+.box-item{
+    justify-content: center;
+    align-items:center;
+    display: flex;
+    gap: 30px;
+    margin-left: 7%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    width: 1228px;
+    height: 190px;
+    
+}
+#box-clean{
+
+    background-color: #FFFFFF;;
+    
+    box-shadow: 1px 2px 60px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: #0B0D17;
+    padding: 40px 40px ;
+    align-items: center;
+    justify-content: center;
+}
+.NETWORK{
+    color: #5B5B5B;
+}
